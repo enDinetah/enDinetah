@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Profile info TBA 🚧 👷🏽 🚧
+Profile info under construcion 🚧 👷🏽 🚧
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
