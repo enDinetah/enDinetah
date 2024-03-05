@@ -1,4 +1,4 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/Python-Coding_Rocks!-<COLOR>.svg)](https://shields.io/) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [!(https://img.shields.io/badge/Python-Coding_Rocks!-<COLOR>.svg)](https://shields.io/) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 ### Hi there 👋
 
