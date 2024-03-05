@@ -1,4 +1,5 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/Python-Coding_Rocks!-<COLOR>.svg)](https://shields.io/)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 ### Hi there 👋
 
 Profile info under construcion 🚧 👷🏽 🚧
