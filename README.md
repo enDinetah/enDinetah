@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Profile info under construcion 🚧 👷🏽 🚧
+Profile info under construction 🚧 👷🏽 🚧
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
