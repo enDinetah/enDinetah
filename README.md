@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a lexical database of Navajo holoxemes, which are traditionally known as verbs. 
 - 🌱 I’m currently learning to format/implement JSON files via Python, more generally JavaScript, Linux, and Powershell/Windows. 
-- 👯 I’m looking to collaborate fellow linguists and computational linguists working on LLMs and/or large databases ~ corpora.
+- 👯 I’m looking to collaborate with fellow linguists and computational linguists working on LLMs and/or large databases ~ corpora.
 
 <!--
 **enDinetah/enDinetah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
