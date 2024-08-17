@@ -4,9 +4,9 @@
 
 Profile info under construction 🚧 👷🏽 🚧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a lexical database of Navajo holoxemes, which are traditionally known as verbs. 
+- 🌱 I’m currently learning to format and implement JSON files and more generally JavaScript. 
+- 👯 I’m looking to collaborate fellow linguists and computational linguists working on LLMs and/or large databases.
 
 <!--
 **enDinetah/enDinetah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
