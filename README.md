@@ -14,9 +14,6 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](#)
-![Construction Grammar](https://img.shields.io/badge/Construction%20Grammar-8B0000?style=for-the-badge&logoColor=white)
-![Frame Semantics](https://img.shields.io/badge/Frame%20Semantics-4B0082?style=for-the-badge&logoColor=white)
-![Na-Dene Linguistics](https://img.shields.io/badge/Na--Dene%20Linguistics-2E8B57?style=for-the-badge&logoColor=white)
 
 
 
@@ -26,6 +23,10 @@
 - 🌱 I’m currently learning to format/implement JSON files via Python, more generally JavaScript, Linux, and Powershell/Windows. 
 - 👯 I’m looking to collaborate with fellow linguists and computational linguists working on LLMs and/or large databases ~ corpora.
 
+
+![Construction Grammar](https://img.shields.io/badge/Construction%20Grammar-8B0000?style=for-the-badge&logoColor=white)
+![Frame Semantics](https://img.shields.io/badge/Frame%20Semantics-4B0082?style=for-the-badge&logoColor=white)
+![Na-Dene Linguistics](https://img.shields.io/badge/Na--Dene%20Linguistics-2E8B57?style=for-the-badge&logoColor=white)
 <!--
 **enDinetah/enDinetah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
