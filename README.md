@@ -13,7 +13,11 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](#)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Construction Grammar](https://img.shields.io/badge/Construction%20Grammar-8B0000?style=for-the-badge&logoColor=white)
+![Frame Semantics](https://img.shields.io/badge/Frame%20Semantics-4B0082?style=for-the-badge&logoColor=white)
+![Na-Dene Linguistics](https://img.shields.io/badge/Na--Dene%20Linguistics-2E8B57?style=for-the-badge&logoColor=white)
+![Construction Grammar](./assets/construction_grammar.svg)
+
 
 ### Hi there 👋
 
