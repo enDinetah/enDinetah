@@ -16,7 +16,7 @@
 ![Construction Grammar](https://img.shields.io/badge/Construction%20Grammar-8B0000?style=for-the-badge&logoColor=white)
 ![Frame Semantics](https://img.shields.io/badge/Frame%20Semantics-4B0082?style=for-the-badge&logoColor=white)
 ![Na-Dene Linguistics](https://img.shields.io/badge/Na--Dene%20Linguistics-2E8B57?style=for-the-badge&logoColor=white)
-![Construction Grammar](./assets/construction_grammar.svg)
+
 
 
 ### Hi there 👋
