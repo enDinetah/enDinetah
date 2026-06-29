@@ -19,7 +19,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a lexical database of Navajo holoxemes, which are traditionally known as verbs. 
-- 🌱 I’m currently learning to format/implement JSON files via Python, more generally JavaScript, Linux, and Powershell/Windows. 
+- 🌱 I’m currently learning to format/implement JSON files via Python, more generally VIM/NVIM commands, terminal workflows, and agentic engineering aka vide coding w/ non-local and local LLMS. 
 - 👯 I’m looking to collaborate with fellow linguists and computational linguists working on LLMs and/or large databases ~ corpora.
 
 
